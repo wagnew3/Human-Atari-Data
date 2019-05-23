@@ -1,6 +1,8 @@
 # Human-Atari-Data
 Human Atari Learning Data
 
+15 minute learning curves for humans on Atari Asterix, Breakout, Pong, and Video Pinball
+
 # Requirements
 gym, matplotlib, pygame
 
